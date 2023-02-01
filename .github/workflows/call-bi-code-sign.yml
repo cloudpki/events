@@ -1,4 +1,4 @@
-ame: Call Authorize Commit Signing
+name: Call Authorize Commit Signing
 
 on: [push]
 
